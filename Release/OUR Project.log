@@ -1,8 +1,0 @@
-﻿  SoftwareMain.cpp
-D:\SavesC++\OUR Project\SoftwareColors.h(21,2): warning C4091: 'typedef ': ignored on left of 'Color' when no variable is declared
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-D:\SavesC++\OUR Project\SoftwareMain.cpp(124): warning C4715: 'SoftwareMainProcedure': not all control paths return a value
-  All 116 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  OUR Project.vcxproj -> D:\SavesC++\OUR Project\Release\OUR Project.exe
